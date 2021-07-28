@@ -1,0 +1,1 @@
+console.log("This is a script to test ci_cd");
